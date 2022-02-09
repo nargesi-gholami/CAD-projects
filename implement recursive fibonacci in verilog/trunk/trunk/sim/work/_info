@@ -1,0 +1,293 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/98902/Desktop/Uni vids/Computer-aided Design/projects/trunk (4)/trunk/sim
+vaccumulator
+!s10a 1638456448
+Z1 !s110 1638456763
+!i10b 1
+!s100 8LYI6OY^cLbI[PLK?9jCd1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IRVJ_o[]NajNZCdUJX<;iU2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1638456447
+8../src/hdl/accumulatr.v
+F../src/hdl/accumulatr.v
+!i122 4
+L0 2 16
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1638456763.000000
+!s107 ../src/hdl/accumulatr.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/accumulatr.v|
+!i113 1
+Z6 o+acc -source
+Z7 !s92 +acc -source +define+SIM
+Z8 tCvgOpt 0
+vC1
+!s10a 1638536070
+Z9 !s110 1638536143
+!i10b 1
+!s100 h9LC^zh1glQk8_XN>N@jz0
+R2
+I:f6^c:coHEaBi00z:DD;N1
+R3
+Z10 dC:/Users/N.GH/Desktop/trunk_2/trunk/trunk/sim
+w1638536070
+8../src/hdl/C1.v
+F../src/hdl/C1.v
+!i122 11
+L0 2 13
+R4
+r1
+!s85 0
+31
+Z11 !s108 1638536143.000000
+!s107 ../src/hdl/C1.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/C1.v|
+!i113 1
+R6
+R7
+R8
+n@c1
+vcomparatorWithOne
+!s10a 1638456232
+R1
+!i10b 1
+!s100 7e:ihOh>:6k]g1j@MS[hi3
+R2
+IiC8P02;anW6U:hN9Ec0dl2
+R3
+R0
+w1638456230
+8../src/hdl/comparator.v
+F../src/hdl/comparator.v
+!i122 3
+Z12 L0 2 8
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../src/hdl/comparator.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/comparator.v|
+!i113 1
+R6
+R7
+R8
+ncomparator@with@one
+vfibController
+!s10a 1638456042
+R1
+!i10b 1
+!s100 bQP59g=h:C=SKKOMViCHF2
+R2
+Il2Kl8dflB@;j5kWiP`1?[1
+R3
+R0
+w1638456041
+8../src/hdl/fibController.v
+F../src/hdl/fibController.v
+!i122 1
+L0 2 41
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../src/hdl/fibController.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/fibController.v|
+!i113 1
+R6
+R7
+R8
+nfib@controller
+vfibDatapath
+!s10a 1638456338
+R1
+!i10b 1
+!s100 Efd@KIZ2X`5=OZHhc4GlR3
+R2
+I11ZmLda=O5@Z[g5TQbeZ;2
+R3
+R0
+w1638456336
+8../src/hdl/fibDataPath.v
+F../src/hdl/fibDataPath.v
+!i122 2
+L0 2 17
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../src/hdl/fibDataPath.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/fibDataPath.v|
+!i113 1
+R6
+R7
+R8
+nfib@datapath
+vfibTB
+!s10a 1638456114
+R1
+!i10b 1
+!s100 iIdb>LE9lW[9Ia6]DE34F1
+R2
+IgPHV<0Q1i>bH[];feW3^f0
+R3
+R0
+w1638456113
+8./tb/fibTB.v
+F./tb/fibTB.v
+!i122 10
+L0 2 54
+R4
+r1
+!s85 0
+31
+R5
+!s107 ./tb/fibTB.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+incdir+../src/inc|+define+SIM|./tb/fibTB.v|
+!i113 1
+R6
+!s92 +acc -source +incdir+../src/inc +define+SIM
+R8
+nfib@t@b
+vfibTopLevel
+!s10a 1638456400
+R1
+!i10b 1
+!s100 >0M_1QlmPYgd^NKcBk^3K0
+R2
+Ii8CiYXim>k;V9@lkB6C:F0
+R3
+R0
+w1638456399
+8../src/hdl/fibTopLevel.v
+F../src/hdl/fibTopLevel.v
+!i122 0
+L0 1 8
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../src/hdl/fibTopLevel.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/fibTopLevel.v|
+!i113 1
+R6
+R7
+R8
+nfib@top@level
+vmultiplexer
+!s10a 1638456358
+R1
+!i10b 1
+!s100 9PcckRgzE758Uh_12O9bK2
+R2
+IUF`I3?kFJnhWVDd8LXQDE2
+R3
+R0
+w1638456356
+8../src/hdl/multiplexer.v
+F../src/hdl/multiplexer.v
+!i122 7
+R12
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../src/hdl/multiplexer.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/multiplexer.v|
+!i113 1
+R6
+R7
+R8
+vS2
+!s10a 1638536099
+R9
+!i10b 1
+!s100 :22;zfGHj]F3iTlEIQg033
+R2
+IVcVg?0nabz?Ih5CV_`Xg;1
+R3
+R10
+w1638536099
+8../src/hdl/S2.v
+F../src/hdl/S2.v
+!i122 12
+L0 2 14
+R4
+r1
+!s85 0
+31
+R11
+!s107 ../src/hdl/S2.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/S2.v|
+!i113 1
+R6
+R7
+R8
+n@s2
+vstack
+!s10a 1638456086
+R1
+!i10b 1
+!s100 ]C@4@ZE;lcnzG=;z@ElTf0
+R2
+I`]BZTIZc5I=VO56hFK^4V3
+R3
+R0
+w1638456084
+8../src/hdl/STACK.v
+F../src/hdl/STACK.v
+!i122 9
+L0 2 33
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../src/hdl/STACK.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/STACK.v|
+!i113 1
+R6
+R7
+R8
+vsubtractor
+!s10a 1638456254
+R1
+!i10b 1
+!s100 U:MJ1A4XVOWD@0VoZMWag0
+R2
+Ibea]VD[TR8VG`]i=@]<aU1
+R3
+R0
+w1638456252
+8../src/hdl/subtractor.v
+F../src/hdl/subtractor.v
+!i122 8
+L0 2 23
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../src/hdl/subtractor.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/subtractor.v|
+!i113 1
+R6
+R7
+R8

@@ -1,0 +1,231 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/UT/university/CAD/midterm/trunk_2/trunk/sim
+vcamparator
+Z1 !s110 1638199972
+!i10b 1
+!s100 IHfIEUAZdhalaMdTF3`;n3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ie1[6G[GIh49FGhjllfTK:3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1638199494
+8../src/hdl/comparator.v
+F../src/hdl/comparator.v
+!i122 3
+Z4 L0 2 5
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1638199972.000000
+!s107 ../src/hdl/comparator.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/comparator.v|
+!i113 1
+Z7 o+acc -source
+Z8 !s92 +acc -source +define+SIM
+Z9 tCvgOpt 0
+vcombController
+R1
+!i10b 1
+!s100 TVjZP^HCXO5:Ph@>HO]em3
+R2
+I06C[l8WOFW^6n9ifUXCNF2
+R3
+R0
+w1638199539
+8../src/hdl/combController.v
+F../src/hdl/combController.v
+!i122 0
+L0 2 81
+R5
+r1
+!s85 0
+31
+R6
+!s107 ../src/hdl/combController.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/combController.v|
+!i113 1
+R7
+R8
+R9
+ncomb@controller
+vcombDataPath
+R1
+!i10b 1
+!s100 zS<4?3;Hnf1_S4lZE@<iM1
+R2
+InC7cfRf7djR<n`A[TK<KT1
+R3
+R0
+w1638199511
+8../src/hdl/combDatapath.v
+F../src/hdl/combDatapath.v
+!i122 1
+L0 2 21
+R5
+r1
+!s85 0
+31
+R6
+!s107 ../src/hdl/combDatapath.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/combDatapath.v|
+!i113 1
+R7
+R8
+R9
+ncomb@data@path
+vcombTb
+R1
+!i10b 1
+!s100 OfCAi[HWEhneOMoJO72FQ3
+R2
+IUPcMDSoA@0cooEHLaJI>;2
+R3
+R0
+w1638199651
+8./tb/combTb.v
+F./tb/combTb.v
+!i122 8
+L0 2 35
+R5
+r1
+!s85 0
+31
+R6
+!s107 ./tb/combTb.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+incdir+../src/inc|+define+SIM|./tb/combTb.v|
+!i113 1
+R7
+!s92 +acc -source +incdir+../src/inc +define+SIM
+R9
+ncomb@tb
+vcombToplevel
+R1
+!i10b 1
+!s100 HG5K1fdJ0oFlDZ@@SWZS]3
+R2
+IOT=EOk;WYhl`HX>hFLZi_0
+R3
+R0
+w1638199504
+8../src/hdl/combToplevel.v
+F../src/hdl/combToplevel.v
+!i122 2
+L0 2 10
+R5
+r1
+!s85 0
+31
+R6
+!s107 ../src/hdl/combToplevel.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/combToplevel.v|
+!i113 1
+R7
+R8
+R9
+ncomb@toplevel
+vmultiplexer2
+R1
+!i10b 1
+!s100 KP0SbA2?EhUoCnhDIKXFB1
+R2
+ITYfH=VkH8>cbl0HAO6mzA1
+R3
+R0
+w1638199474
+8../src/hdl/multiplexer.v
+F../src/hdl/multiplexer.v
+!i122 4
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 ../src/hdl/multiplexer.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/multiplexer.v|
+!i113 1
+R7
+R8
+R9
+vmultiplexer3
+R1
+!i10b 1
+!s100 c>2Xgza8^bf^C4;CIK;Ca0
+R2
+I71Q[:GoVhV[FVJfm;BlF41
+R3
+R0
+w1638199554
+8../src/hdl/multiplexer3.v
+F../src/hdl/multiplexer3.v
+!i122 5
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 ../src/hdl/multiplexer3.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/multiplexer3.v|
+!i113 1
+R7
+R8
+R9
+vregister
+R1
+!i10b 1
+!s100 :98[LMa?<lQ2^G5GD0j5A3
+R2
+IlQd[Zi[S<InVDX@ZmC3a03
+R3
+R0
+w1638199520
+8../src/hdl/register.v
+F../src/hdl/register.v
+!i122 6
+L0 2 11
+R5
+r1
+!s85 0
+31
+R6
+!s107 ../src/hdl/register.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/register.v|
+!i113 1
+R7
+R8
+R9
+vstack
+R1
+!i10b 1
+!s100 cdbS2aJI8K^iUd;>ncKW50
+R2
+IG6^Q5Ak5]o[M[gO5W07N60
+R3
+R0
+w1638199547
+8../src/hdl/STACK.v
+F../src/hdl/STACK.v
+!i122 7
+L0 2 31
+R5
+r1
+!s85 0
+31
+R6
+!s107 ../src/hdl/STACK.v|
+!s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/STACK.v|
+!i113 1
+R7
+R8
+R9
